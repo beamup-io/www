@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="589px" height="147px" viewBox="0 0 589 147" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1.1 (8761) - http://www.bohemiancoding.com/sketch -->
+    <title>beamup-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Logos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <text id="beamup-2" sketch:type="MSTextLayer" font-family="Quicksand" font-size="144" font-weight="260" fill="#F6F0F7">
+            <tspan x="-11" y="117.88">beam</tspan>
+            <tspan x="370.744" y="117.88" font-weight="bold">up</tspan>
+        </text>
+        <polygon id="Triangle-4" fill="#F6F0F7" sketch:type="MSShapeGroup" points="568.5 0 589 41 548 41 "></polygon>
+    </g>
+</svg>
